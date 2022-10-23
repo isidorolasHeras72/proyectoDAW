@@ -1,0 +1,5 @@
+// Misdatos.txt
+
+Nombre:         Isidoro
+Apellidos:      Las Heras Ribas
+Telefono:       601 601 601 
